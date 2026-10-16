@@ -54,7 +54,7 @@ The dashboard turns raw MLCC component and supplier data into decision-ready ana
 
 1. Clone the repository
 2. Open `MLCC Dashboard.pbix` in **Power BI Desktop**
-3. If prompted for data sources, point to the files under `data/` and `model/`
+3. If prompted for data sources, point to the files under `model/`
 4. Explore the report pages: supplier overview, subtier paths, location analysis, and risk views
 
 ## Author
