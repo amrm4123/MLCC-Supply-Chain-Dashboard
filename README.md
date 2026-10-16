@@ -39,10 +39,7 @@ The dashboard turns raw MLCC component and supplier data into decision-ready ana
 ```
 ├── MLCC Dashboard.pbix                          # Power BI dashboard (open with Power BI Desktop)
 ├── model/
-│   └── MLCC_Star_Schema_Model.xlsx              # Star schema model (facts + dimensions)
-├── data/
-│   ├── Murata_MLCC_Class_II V11.xlsx            # Source: Murata MLCC Class II analysis data
-│   └── MLCC Compare SC Data updated V2 1.xlsx   # Source: supply chain comparison data
+│   └── MLCC_Star_Schema_Model.xlsx              # Star schema model (facts + dimensions)\
 └── docs/
     └── Supply Chain Intelligence Platform.docx  # Related supply chain intelligence platform design notes
 ```
